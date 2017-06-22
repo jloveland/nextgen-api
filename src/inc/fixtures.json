@@ -1,0 +1,63 @@
+{
+  "fixtures": [{
+      "id": 1,
+      "prosport": "Football",
+      "date": "2014-07-08T20:00:00Z",
+      "gameclock": "30:00",
+      "homeTeamName": "RichMond Tigers",
+      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Richmond_Tigers_logo.svg/180px-Richmond_Tigers_logo.svg.png",
+      "awayTeamName": "Western BullDogs",
+      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Western_Bulldogs_logo.svg/230px-Western_Bulldogs_logo.svg.png",
+      "status": "Completed",
+      "period": 4,
+      "result": {
+        "goalsHomeTeam": 10,
+        "behindsHomeTeam": 6,
+        "superGoalsHomeTeam": 1,
+        "goalsAwayTeam": 2,
+        "behindsAwayTeam": 3,
+        "superGoalsAwayTeam": 0
+      }
+    },
+    {
+      "id": 2,
+      "prosport": "NBA",
+      "date": "2014-07-09T20:00:00Z",
+      "gameclock": "12:10",
+      "homeTeamName": "Essendon Football Club",
+      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Essendon_FC_logo.svg/175px-Essendon_FC_logo.svg.png",
+      "awayTeamName": "West Coast Eagles",
+      "awayTeamLogo": "https://en.wikipedia.org/wiki/West_Coast_Eagles#/media/File:West_Coast_Eagles_logo.svg",
+      "status": "In Progress",
+      "period": 3,
+      "result": {
+        "goalsHomeTeam": 8,
+        "behindsHomeTeam": 1,
+        "superGoalsHomeTeam": 2,
+        "goalsAwayTeam": 5,
+        "behindsAwayTeam": 1,
+        "superGoalsAwayTeam": 0
+      }
+    },
+    {
+      "id": 3,
+      "prosport": "Football",
+      "date": "2014-07-08T20:00:00Z",
+      "gameclock": "00:00",
+      "homeTeamName": "Sydney Swans",
+      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Sydney_Swans_Logo.svg/125px-Sydney_Swans_Logo.svg.png",
+      "awayTeamName": "Melbourne Football Club",
+      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Melbournefc.svg/951px-Melbournefc.svg.png",
+      "status": "Not Started",
+      "period": 1,
+      "result": {
+        "goalsHomeTeam": 0,
+        "behindsHomeTeam": 0,
+        "superGoalsHomeTeam": 0,
+        "goalsAwayTeam": 0,
+        "behindsAwayTeam": 0,
+        "superGoalsAwayTeam": 0
+      }
+    }
+  ]
+}
